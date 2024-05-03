@@ -11,20 +11,16 @@ export default function Skills(props: SkillsProps) {
     return skills.length == 0 ? (
         <div></div>
     ) : (
-        <div className="flex flex-col space-y-4 lg:w-1/2 mx-4">
-            <h1 className="text-3xl font-bold">Skills</h1>
-            {skills.map((skill, index) => (
-                <div className="flex flex-col space-y-2 relative" key={index}>
-                    <div className="relative left-10 w-full">
-                        <p className="text-xl font-normal">{skill.name}</p>
-                        <p className="text-xl font-normal">{skill.logo}</p>
+        <div className="flex flex-wrap lg:w-1/2 mx-4">
+            <h1 className="text-3xl font-bold w-full">Skills</h1>
+            <div className="grid grid-cols-2 gap-4 w-full">
+                {skills.map((skill, index) => (
+                    <div className="flex items-center" key={index}>
+                        <i className={skill.logo + " text-secondary dark:text-dk-secondary hover:text-accent dark:hover:text-dk-accent"}></i>
+                        <p className="ml-2 text-xl font-normal">{skill.name}</p>
                     </div>
-
-                    {index !== skills.length - 1 && (
-                        <div className="absolute top-4 left-3 h-full w-1 bg-secondary dark:bg-dk-secondary hover:bg-accent dark:hover:bg-dk-accent z-0"></div>
-                    )}
-                </div>
-            ))}
+                ))}
+            </div>
         </div>
     );
 }

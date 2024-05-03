@@ -72,8 +72,34 @@ export const info = {
     skills: [
       {
         name: "PHP",
-        logo:""
-      }
+        logo: "fab fa-php fa-lg",
+      },
+      {
+        name: "Symfony",
+        logo: "fab fa-symfony fa-lg",
+      },
+      {
+        name: "Laravel",
+        logo: "fab fa-laravel fa-lg",
+      },
+      {
+        name: "Wordpress",
+        logo: "fab fa-wordpress fa-lg",
+      },
+      {
+        name: "Angular",
+        logo: "fab fa-angular fa-lg",
+      },
+      {
+        name: "React",
+        logo: "fab fa-react fa-lg",
+      },
+      {
+        name: "Prestashop",
+        logo: "fab fa-prestashop fa-lg",
+      },
+
+
     ]
   },
 
