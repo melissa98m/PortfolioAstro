@@ -98,6 +98,22 @@ export const info = {
         name: "Prestashop",
         logo: "fab fa-prestashop fa-lg",
       },
+      {
+        name: "MySQL",
+        logo: "fab fa-mysql fa-lg",
+      },
+      {
+        name: "HTML",
+        logo: "fab fa-html5 fa-lg",
+      },
+      {
+        name: "CSS",
+        logo: "fab fa-css3 fa-lg",
+      },
+      {
+        name: "Bootstrap",
+        logo: "fab fa-bootstrap fa-lg",
+      },
 
 
     ]
@@ -108,11 +124,11 @@ export const info = {
       title: "Portfolio",
       date: "2024",
       description:
-        "An interactive portfolio website showcasing my mischievous coding projects.",
+        "Création de mon portfolio ",
       link: "https://www.melissa-mangione.com/portfolio.html",
       tech: ["HTML", "CSS", "JavaScript"],
-      img_alt: "Bart's Portfolio",
-      img_path: "/simpsons.png",
+      img_alt: "Portfolio",
+      img_path: "/portfolio.png",
     },
     {
       title: "Skateboard Shop",
