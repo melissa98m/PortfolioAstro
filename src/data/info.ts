@@ -3,7 +3,7 @@ export const info = {
   brief_description:
     "Je suis une développeuse en recherche d'un nouveau poste #OpenToWork",
   role: "Développeuse full Stack",
-  picture: "/pic.png",
+  picture: "/logo.png",
   picture_alt: "Mélissa Mangione",
   location: "Le Champs prés Froges, FRA",
   cv: "/resume.pdf",
