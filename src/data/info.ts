@@ -9,11 +9,14 @@ export const info = {
   cv: "/resume.pdf",
 
   about: {
-    description: `I'm a full stack developer with a passion for causing a little chaos in web development.
-    I have a solid foundation in computer science, although I prefer skateboarding over studying.
-    I excel in building web applications using React, Node.js, and MongoDB.
-    I'm known for my sharp wit and quick thinking, traits that serve me well in coding and pranks alike.
-    Looking for a challenge? Let's create something memorable together.`,
+    description: `
+    Je suis une développeuse web qui jongle avec les bits et les pixels pour créer des expériences en ligne performantes
+    . Mon clavier est mon pinceau, et mon écran est ma toile et comme une artise je laisse libre cours à ma passion. Ma motivation découle de ma volonté constante de relever des 
+    défis et d'apprendre de nouvelles technologies. Mon approche pragmatique du développement, associée à ma capacité à 
+    résoudre rapidement les problèmes, me permet de créer des solutions efficaces.
+    En dehors du code, j'apprécie me surpasser en fesant des randonnées et découvrir de nouveaux paysages.
+    Si vous recherchez une développeuse web passionnée par son métier et prête à relever de nouveaux défis, je suis là pour vous aider à concrétiser vos idées et répondre à vos besoins.
+    `,
     education: [
       {
         title: "Expert informatique et systemes de l'information ",
