@@ -112,8 +112,8 @@ export const info = {
 
   contact: {
     email: "melissa.mangione@gmail.com",
-    linkedin: "https://www.linkedin.com/in/bartsimpsonfake",
-    github: "https://www.github.com/gio-del",
-    twitter: "https://www.twitter.com/bartsimpsonfake",
+    linkedin: "https://www.linkedin.com/in/melissamangione/",
+    github: "https://github.com/melissa98m",
+    gitlab: "https://gitlab.com/melissa.mangione",
   },
 };
