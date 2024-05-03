@@ -6,7 +6,7 @@ export const info = {
   picture: "/logo.png",
   picture_alt: "Mélissa Mangione",
   location: "Le Champs prés Froges, FRA",
-  cv: "/resume.pdf",
+  cv: "/CV_Mélissa_MANGIONE.pdf",
 
   about: {
     description: `
