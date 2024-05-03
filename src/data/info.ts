@@ -11,7 +11,7 @@ export const info = {
   about: {
     description: `
     Je suis une développeuse web qui jongle avec les bits et les pixels pour créer des expériences en ligne performantes
-    . Mon clavier est mon pinceau, et mon écran est ma toile et comme une artise je laisse libre cours à ma passion. Ma motivation découle de ma volonté constante de relever des 
+    . Mon clavier est mon pinceau, et mon écran est ma toile et comme une artiste je laisse libre cours à ma passion. Ma motivation découle de ma volonté constante de relever des 
     défis et d'apprendre de nouvelles technologies. Mon approche pragmatique du développement, associée à ma capacité à 
     résoudre rapidement les problèmes, me permet de créer des solutions efficaces.
     En dehors du code, j'apprécie me surpasser en fesant des randonnées et découvrir de nouveaux paysages.
@@ -63,7 +63,7 @@ export const info = {
       },
       {
         title: "Développeur full Stack",
-        date: "2013 - 2015",
+        date: "2021 - 2021",
         location: "Distanciel , Human Booster",
         description:
           "Création d'un logiciel ,Export de base de données, Création d'une plateforme de streaming avec authentification ,Travail en équpipe"
@@ -131,24 +131,44 @@ export const info = {
       img_path: "/portfolio.png",
     },
     {
-      title: "Skateboard Shop",
+      title: "Outdoor Private Security",
       date: "2023",
       description:
-        "An e-commerce site selling skateboards and prank supplies. No bullies allowed!",
-      link: "https://github.com/bartsimpsonfake/skate-shop",
-      tech: ["React", "Node.js", "MongoDB", "Skateboard.js"],
-      img_alt: "Skateboard Shop",
-      img_path: "skateboard.png",
+        "Création d'une identité numérique pour une agence de sécurité privé",
+      link: "https://www.outdoor-private-security.fr/",
+      tech: ["Wordpress", "Figma", "CSS" , "SEO"],
+      img_alt: "OPS",
+      img_path: "ops.png",
     },
     {
-      title: "Comic Book Club",
-      date: "2022",
+      title: "Go with dog",
+      date: "2022 - 2023",
       description:
-        "A platform for comic book enthusiasts to discuss and share their collections.",
-      link: "https://github.com/bartsimpsonfake/comic-club",
-      tech: ["React", "Node.js", "MongoDB", "Comic.js"],
-      img_alt: "Comic Book Club",
-      img_path: "comics.png",
+        "Création d'une application web pour facilité la recherche de lieux autorisés aux chiens",
+      link: "https://github.com/melissa98m/GoWithDog",
+      tech: ["React", "Laravel", "JWT Token", "API"  , "Material UI"],
+      img_alt: "Go with dog",
+      img_path: "gowithdog.png",
+    },
+    {
+      title: "Replay",
+      date: "2021",
+      description:
+          "Création d'une application web de streaming",
+      link: "Hors ligne",
+      tech: ["Symfony", "Angular", "JWT Token", "API platform"  , "Angular Material"],
+      img_alt: "Replay",
+      img_path: "Replay.png",
+    },
+    {
+      title: "MEAN Stack",
+      date: "2021",
+      description:
+          "Création d'une site web avec la stack MEAN",
+      link: "https://github.com/melissa98m/MeanStack",
+      tech: ["Mongo DB", "Express.js", "Angular", "Node.js"],
+      img_alt: "MEAN Stack",
+      img_path: "mean.png",
     },
   ],
 
